@@ -12,20 +12,6 @@ A modern login interface built with React, TypeScript, and React Hook Form.
 - Form state management with React Hook Form
 - Type-safe with TypeScript
 
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/your-repo/frontend.git
-   cd frontend
-
-2. Install dependencies:
-   npm install
-
-3. Configure environment variables:
-   cp .env.example .env
-   Edit `.env` to include your API base URL:
-   REACT_APP_API_URL=http://localhost:3000/api
-
 ## Available Scripts
 
 - npm start: Runs the app in development mode
